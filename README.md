@@ -1,4 +1,4 @@
-Application Name: Voice Assistance Application
+Application Name: Product Display Application
 
 Authors: Shruthi, etc..
 
